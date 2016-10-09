@@ -1,6 +1,1 @@
-exit
-
-q
-;q
-quit
-exit
+This is Jaren's First Git Project
